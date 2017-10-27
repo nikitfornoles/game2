@@ -1204,10 +1204,10 @@
         </family>
     </families>
     <layout-folder>
+        <layout>Main Page.xml</layout>
         <layout>PVF Easy.xml</layout>
         <layout>PVF Medium.xml</layout>
         <layout>PVF Hard.xml</layout>
-        <layout>Main Page.xml</layout>
     </layout-folder>
     <event-folder>
         <event-sheet>Event sheet 1.xml</event-sheet>
