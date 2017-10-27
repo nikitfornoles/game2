@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>Event sheet 4</name>
+    <events>
+        <event-block sid="667317072546069">
+            <conditions>
+                <condition id="-2" name="On start of layout" sid="702730612807516" type="System" />
+            </conditions>
+            <actions>
+                <action id="33" name="Stop all" sid="816919931975654" type="Audio" />
+                <action id="0" name="Play" sid="654291226936845" type="Audio">
+                    <param id="0" name="Audio file">Menu_Sound</param>
+                    <param id="2" name="Loop">1</param>
+                    <param id="3" name="Volume">-10</param>
+                    <param id="1" name="Tag (optional)">&quot;menuSound&quot;</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="6051546760378658">
+            <conditions>
+                <condition id="6" name="On object clicked" sid="5732493567095408" type="Mouse">
+                    <param id="0" name="Mouse button">0</param>
+                    <param id="1" name="Click type">0</param>
+                    <param id="2" name="Object clicked">EasyButton2</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="4" name="Set animation" sid="3156505179001515" type="EasyButton">
+                    <param id="0" name="Animation">&quot;Pressed&quot;</param>
+                    <param id="1" name="From">1</param>
+                </action>
+                <action id="-16" name="Wait" sid="4750028157143784" type="System">
+                    <param id="0" name="Seconds">0.8</param>
+                </action>
+                <action id="-25" name="Go to layout (by name)" sid="8012158148829336" type="System">
+                    <param id="0" name="Layout">&quot;PVF Easy&quot;</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="7265588738501437">
+            <conditions>
+                <condition id="6" name="On object clicked" sid="2247636120210032" type="Mouse">
+                    <param id="0" name="Mouse button">0</param>
+                    <param id="1" name="Click type">0</param>
+                    <param id="2" name="Object clicked">MediumButton2</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="4" name="Set animation" sid="3807371012602902" type="MediumButton">
+                    <param id="0" name="Animation">&quot;Pressed&quot;</param>
+                    <param id="1" name="From">1</param>
+                </action>
+                <action id="-16" name="Wait" sid="4312173434801198" type="System">
+                    <param id="0" name="Seconds">0.8</param>
+                </action>
+                <action id="-25" name="Go to layout (by name)" sid="3090893035979814" type="System">
+                    <param id="0" name="Layout">&quot;PVF Medium&quot;</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block any="1" sid="756251115446646">
+            <conditions>
+                <condition id="6" name="On object clicked" sid="368736852223782" type="Mouse">
+                    <param id="0" name="Mouse button">0</param>
+                    <param id="1" name="Click type">0</param>
+                    <param id="2" name="Object clicked">HardButton2</param>
+                </condition>
+                <condition id="6" name="On object clicked" sid="777492167656504" type="Mouse">
+                    <param id="0" name="Mouse button">0</param>
+                    <param id="1" name="Click type">0</param>
+                    <param id="2" name="Object clicked">txtHard</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="4" name="Set animation" sid="453756324350226" type="HardButton2">
+                    <param id="0" name="Animation">&quot;Pressed&quot;</param>
+                    <param id="1" name="From">1</param>
+                </action>
+                <action id="-16" name="Wait" sid="874437029913704" type="System">
+                    <param id="0" name="Seconds">0.8</param>
+                </action>
+                <action id="-25" name="Go to layout (by name)" sid="257566694392353" type="System">
+                    <param id="0" name="Layout">&quot;PVF Hard&quot;</param>
+                </action>
+            </actions>
+        </event-block>
+    </events>
+</c2eventsheet>

@@ -1,0 +1,9 @@
+Asset: Horse Chestnut Tree
+Author: Onsemeliot
+Date: Friday, June 9, 2017 - 16:32
+Art Type: 2D Art
+Link: https://opengameart.org/content/horse-chestnut-tree
+
+Sounds
+"Rain, Moderate, A.wav" by InspectorJ of Freesound.org
+"Dry Thunder3.wav" by juskiddink of Freesound.org

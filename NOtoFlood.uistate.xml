@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2uistate>
+    <!--This is a UI state file - its content describes the user interface settings when the project was last open.
+It is entirely optional and the project will load without it.  If you are placing the project under source control,
+you probably do not want to add any .uistate.xml files to the repository.-->
+    <configurations>
+        <active>
+            <configuration name="HTML5" />
+        </active>
+        <display name="HTML5" />
+    </configurations>
+    <open-tabs>
+        <layout order="0">Main Page</layout>
+        <layout order="1">PVF Easy</layout>
+        <layout order="2">PVF Medium</layout>
+        <layout order="3">PVF Hard</layout>
+        <event-sheet order="4">Event sheet 1</event-sheet>
+        <event-sheet order="5">Event sheet 2</event-sheet>
+        <event-sheet order="7">Event sheet 4</event-sheet>
+        <event-sheet active="1" order="6">Event sheet 3</event-sheet>
+    </open-tabs>
+    <properties>
+        <property expanded="1" name="About" />
+        <property expanded="1" name="Project settings" />
+        <property expanded="0" name="Window Size" />
+        <property expanded="1" name="Configuration Settings" />
+    </properties>
+    <families-expanded root="1">
+        <family expanded="0" name="DirtFamily" />
+        <family expanded="0" name="Tree" />
+    </families-expanded>
+    <folders-expanded>
+        <folder expanded="0" path="object-folder/" />
+        <folder expanded="1" path="layout-folder/" />
+        <folder expanded="1" path="event-folder/" />
+        <folder expanded="1" path="file-folder/" />
+        <folder expanded="1" path="sound-folder/" />
+        <folder expanded="1" path="music-folder/" />
+        <folder expanded="0" path="file-folder/Icons/" />
+        <folder expanded="1" path="animation-folder/RainingBG/" />
+        <folder expanded="1" path="animation-folder/MediumTreeM/" />
+        <folder expanded="1" path="animation-folder/Dirt1M/" />
+        <folder expanded="1" path="animation-folder/Dirt2M/" />
+        <folder expanded="1" path="animation-folder/Dirt3M/" />
+        <folder expanded="1" path="animation-folder/HUD/" />
+        <folder expanded="1" path="animation-folder/Dirt4M/" />
+        <folder expanded="1" path="animation-folder/Dirt5M/" />
+        <folder expanded="1" path="animation-folder/Dirt6M/" />
+        <folder expanded="1" path="animation-folder/Dirt7/" />
+        <folder expanded="1" path="animation-folder/Dirt7M/" />
+        <folder expanded="1" path="animation-folder/Dirt8M/" />
+        <folder expanded="1" path="animation-folder/Dirt9M/" />
+        <folder expanded="1" path="animation-folder/Dirt10M/" />
+        <folder expanded="1" path="animation-folder/Dirt11M/" />
+        <folder expanded="1" path="animation-folder/Dirt12M/" />
+        <folder expanded="1" path="animation-folder/Dirt13M/" />
+        <folder expanded="1" path="animation-folder/Dirt14M/" />
+        <folder expanded="1" path="animation-folder/Dirt15M/" />
+        <folder expanded="1" path="animation-folder/Dirt16M/" />
+        <folder expanded="1" path="animation-folder/Seed/" />
+        <folder expanded="1" path="animation-folder/MediumTree2M/" />
+        <folder expanded="1" path="animation-folder/BabyTreeM/" />
+        <folder expanded="1" path="animation-folder/BabyTree2M/" />
+        <folder expanded="1" path="animation-folder/TheFloodM/" />
+        <folder expanded="1" path="animation-folder/FloodMeterM/" />
+        <folder expanded="1" path="animation-folder/InviWall/" />
+        <folder expanded="1" path="animation-folder/Sprite/" />
+        <folder expanded="1" path="animation-folder/Sprite2/" />
+        <folder expanded="1" path="animation-folder/EasyButton/" />
+        <folder expanded="1" path="animation-folder/MediumButton/" />
+        <folder expanded="1" path="animation-folder/Sprite3/" />
+        <folder expanded="1" path="animation-folder/back/" />
+        <folder expanded="1" path="animation-folder/Sprite4/" />
+        <folder expanded="1" path="animation-folder/MediumButton2/" />
+        <folder expanded="1" path="animation-folder/EasyButton2/" />
+        <folder expanded="1" path="animation-folder/MediumButton3/" />
+        <folder expanded="1" path="animation-folder/LargeTree2M/" />
+        <folder expanded="1" path="animation-folder/LargeTreeM/" />
+        <folder expanded="1" path="animation-folder/Flood2/" />
+        <folder expanded="1" path="animation-folder/HardButton2/" />
+        <folder expanded="1" path="animation-folder/Lightning/" />
+    </folders-expanded>
+</c2uistate>
