@@ -24,12 +24,12 @@
         <event-block any="1" sid="525631708011524">
             <conditions>
                 <condition id="-14" name="Compare variable" sid="196703991813059" type="System">
-                    <param id="0" name="Variable">Timer2</param>
+                    <param id="0" name="Variable">Timer</param>
                     <param id="1" name="Comparison">0</param>
                     <param id="2" name="Value">0</param>
                 </condition>
                 <condition id="-14" name="Compare variable" sid="282153071099683" type="System">
-                    <param id="0" name="Variable">FloodMeterLevel2</param>
+                    <param id="0" name="Variable">FloodMeterLevel1</param>
                     <param id="1" name="Comparison">5</param>
                     <param id="2" name="Value">700</param>
                 </condition>
