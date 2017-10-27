@@ -22023,9 +22023,9 @@ cr.behaviors.solid = function(runtime)
 cr.getObjectRefTable = function () { return [
 	cr.plugins_.Audio,
 	cr.plugins_.Mouse,
+	cr.plugins_.Text,
 	cr.plugins_.Sprite,
 	cr.plugins_.Spritefont2,
-	cr.plugins_.Text,
 	cr.behaviors.DragnDrop,
 	cr.behaviors.Pin,
 	cr.behaviors.Bullet,
